@@ -1,2 +1,3 @@
 # phone
-Simple go script that normalizes phone numbers
+It an be quite tidious to accomodate all of the different formats of phone numbers in your database...
+This simple go script will normalize phone numbers before you insert them into your database ಠ⌣ಠ
